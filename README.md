@@ -3,7 +3,7 @@
 This project is a simple Text-to-Speech (TTS) application that converts written text into spoken words. It can be used to add voice features to your applications or for any other use case where text-to-speech functionality is required.
 
 ## Demo
-[Generate](https://priyam144.pythonanywhere.com/generate-speech?msg=Hi&lang=en)
+https://priyam144.pythonanywhere.com/generate-speech?msg=Hi&lang=en
 
 ## Features
 
